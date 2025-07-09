@@ -3,7 +3,7 @@
 **Odoer** (Dockerizing Odoo) is a command-line Rust application designed to simplify managing **Odoo + Docker Compose** environments with a suite of essential commands.
 
 Developed with a focus on clarity, security, and automation.
-
+![Demo](full_connection.jpg)
 ---
 
 ## Features
