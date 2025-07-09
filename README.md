@@ -36,6 +36,12 @@ To use the default:
 ./odoer <command>
 ````
 
+To pass the password instead:
+
+```bash
+./odoer -p $PASS <command>
+```
+
 To use a different project directory:
 
 ```bash
