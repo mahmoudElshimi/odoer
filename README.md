@@ -1,9 +1,11 @@
 # Odoer – Odoo Docker Manager
 
 **Odoer** (Dockerizing Odoo) is a command-line Rust application designed to simplify managing **Odoo + Docker Compose** environments with a suite of essential commands.
+
 ![Demo](images/full_connection.jpg)
 
 Developed with a focus on clarity, security, and automation.
+
 ---
 
 ## Features
@@ -111,14 +113,11 @@ This runs the backup script **every night at 2:00 AM** and logs output to `/var/
 
 ## License
 
-Released under the MIT License.
+Released under the MIT/X License.
 > RTFM, 
 > KISS
 
 ---
-## Developer Information
-
 Developed by Mahmoud Elshimi
 Email: [mahmoudelshimi@protonmail.ch](mailto:mahmoudelshimi@protonmail.ch)
 Phone: +20 100 312 3253
-

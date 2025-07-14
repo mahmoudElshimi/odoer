@@ -21,6 +21,7 @@ services:
     command: [
       "--",
       "-d", "base",
+      "--without-demo=all",
       "--proxy-mode",
       "--no-database-list"
     ]
